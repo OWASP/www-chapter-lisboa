@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Nuno Loureiro](mailto:nuno.loureiro@owasp.org)
+* [Carlos Serrao](mailto:carlos.serrao@owasp.org)
