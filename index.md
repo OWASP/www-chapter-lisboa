@@ -12,6 +12,8 @@ postal-code: 1649
 ---
 <!-- rebuild -->
 
+![Lisboa Chapter Logo, image By Deensel - Lisbon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=94222909](assets/images/owasp-lisboa-banner-small.png)
+
 ## Welcome to the OWASP Lisboa chapter
 Welcome to the new OWASP Lisboa OWASP chapter. This new portuguese local chapter, builds on the previous experience of the previous existing portuguese OWASP chapter, that was active between 2008 and 2018. 
 
