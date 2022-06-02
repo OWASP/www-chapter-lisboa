@@ -4,10 +4,8 @@ layout: col-sidebar
 title: OWASP Lisboa
 tags: lisboa
 region: Europe
-meetup-group: OWASP-Lisboa
-currency: eur
+meetup-group: owasp-lisboa
 country: Portugal
-postal-code: 1649-026
 
 ---
 
