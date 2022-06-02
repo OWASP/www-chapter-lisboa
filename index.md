@@ -11,7 +11,7 @@ postal-code: 1649-026
 
 ---
 
-## Welcome to the OWASP Lisboa OWASP chapter
+## Welcome to the OWASP Lisboa chapter
 Welcome to the new OWASP Lisboa OWASP chapter. This new portuguese local chapter, builds on the previous experience of the previous existing portuguese OWASP chapter, that was active between 2008 and 2018. 
 
 The objective of this chapter is to promote application security in Portugal, through the engagement of the local community, meetings and events organization, and project participation.
