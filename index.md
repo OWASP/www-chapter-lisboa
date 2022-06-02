@@ -2,10 +2,12 @@
 
 layout: col-sidebar
 title: OWASP Lisboa
-tags: lisboa
+tags: chapter-lisboa owasp-lisboa owasp-lisbon chapter-portugal lisboa lisbon portugal 
+level: 0
 region: Europe
-meetup-group: owasp-lisboa
+meetup-group: OWASP-Lisboa
 country: Portugal
+postal-code: 1649
 
 ---
 <!-- rebuild -->
@@ -15,7 +17,7 @@ Welcome to the new OWASP Lisboa OWASP chapter. This new portuguese local chapter
 
 The objective of this chapter is to promote application security in Portugal, through the engagement of the local community, meetings and events organization, and project participation.
 
-Join us!
+[Join us](https://owasp.org/membership)!
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -27,4 +29,3 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
-
