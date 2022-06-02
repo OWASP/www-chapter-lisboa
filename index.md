@@ -2,9 +2,12 @@
 
 layout: col-sidebar
 title: OWASP Lisboa
-tags: example-tag
-region: Unknown
-meetup-group:
+tags: lisboa
+region: Europe
+meetup-group: OWASP-Lisboa
+currency: eur
+country: Portugal
+postal-code: 1649-026
 
 ---
 
