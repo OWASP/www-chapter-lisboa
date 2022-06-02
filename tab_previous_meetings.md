@@ -3,7 +3,7 @@ title: Previous Events
 layout:  null
 tab: true
 order: 1
-tags: previous-events
+tags: lisboa
 ---
 
 ## Previous Events
