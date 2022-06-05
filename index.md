@@ -10,7 +10,7 @@ country: Portugal
 postal-code: 1649
 
 ---
-<!-- rebuild -->
+<!-- rebuild 1 -->
 
 ![Lisboa Chapter Logo, image By Deensel - Lisbon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=94222909](assets/images/owasp-lisboa-banner-small.png)
 
