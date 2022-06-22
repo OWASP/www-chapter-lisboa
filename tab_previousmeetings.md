@@ -1,6 +1,6 @@
 ---
-title: PastEvents
-displaytext: Past Events
+title: PreviousMeetings
+displaytext: Previous Meetings
 layout:  null
 tab: true
 order: 1
