@@ -2,6 +2,6 @@
 Supporting OWASP mission from Portugal since 2008.
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-lisboa-chapter/)
 
 
