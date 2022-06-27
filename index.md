@@ -5,7 +5,7 @@ title: OWASP Lisboa
 tags: chapter-lisboa owasp-lisboa owasp-lisbon chapter-portugal lisboa lisbon portugal 
 level: 0
 region: Europe
-meetup-group: OWASP-Lisboa
+meetup-group: owasp-lisboa-chapter
 country: Portugal
 postal-code: 1649
 
