@@ -9,8 +9,10 @@ tags: lisboa
 # OWASP Lisboa Chapter Meetup 2022
 
 ## November 9th:
-The first meetup of the OWASP Lisboa Chapter - The Beginning. 
+The first meetup of the OWASP Lisboa Chapter - The Beginning.
 
+### Location:
+[OLX Portugal - Praça Duque de Saldanha nº 1 · Lisboa](https://goo.gl/maps/yeJVScaFdtoZcLoG7)
 
 ### Agenda:
 * 18h00: **The Beginning** by the OWASP Lisboa chapter leadership team
