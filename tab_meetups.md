@@ -1,0 +1,36 @@
+---
+title: meetups
+displaytext: Chapter Meetups
+layout: null
+tab: true
+order: 2
+tags: lisboa
+---
+# OWASP Lisboa Chapter Meetup 2022
+
+## November 9th:
+The first meetup of the OWASP Lisboa Chapter - The Beginning. 
+
+
+### Agenda:
+* 18h00: **The Beginning** by the OWASP Lisboa chapter leadership team
+* 18h30: **[OWASP API Top10](#OWASP API Top10)** by Paulo Silva
+* 19h00: **[Bots have gone phishing, but all they get is the boot](#Bots have gone phishing, but all they get is the boot)** by Pedro Fortuna and Jasvir Nagra
+* 20h00: **Drinks & Dinner** by OLX
+
+### Bots have gone phishing, but all they get is the boot
+Web applications and the APIs which drive them are built with humans in mind. Exposing APIs enable interesting mashups of applications. But they also allow bots to automate access to these web applications, brute-forcing passwords, grabbing credit card numbers and gift cards; artificially inflating the price of goods and tickets; deny legitimate users service; and scraping content. Traditional approaches have focused on trying to detect legitimate browsers, known bot frameworks and user behavior but the easy availability of scriptable headless browsers are making this approach have diminishing returns. Bots are also commonly used in the context of phishing web apps. These apps are copies of the website, usually hosted in similar host names, where the user is tricked by means of phishing attacks. There, the user is convinced to enter their credentials, just like they would in the legitimate website. 2FA does not help in this context, as the user will likely volunteer this information, believing that the request comes from the legitimate website. Once in possession of the user credentials and 2FA, bots are used to automate the login into the account and steal sensitive data or commit fraud. 
+
+In this talk, we will give a brief overview of the broad goals bot-writers have when targeting your site, examples of how these have affected businesses, how traditional approaches to defending against them work and where they fail when faced with modern scripted browsers. We will then focus on phishing bots, and how to defend against them. We demonstrate a series of techniques using a combination of obfuscation and a one time token to increase the cost in time and money to a bot-writer rather than attempting to detect or block it. We will cover the challenges in creating such a solution, how to anticipate how bot-writers attempt to evade detection and how to proactively evolve the solution. A live demo will be included.
+
+#### Pedro Fortuna
+Once on a trajectory to a full academic career, where he taught security and computer science courses for about 5 years - ended up falling in love with the fast-paced world of entrepreneurship. He Started Jscrambler where he leads all security research and drives the company's product innovation on application security. Has more than 15 years of experience researching and working on web security. OWASP contributor. A regular speaker at several international security conferences. Main research interests lie in the fields of Application Security, Web Security, Reverse Engineering, Malware, and Software Engineering. Builder of solutions that require code rewriting, sandboxing, or both. Author of several patents in application security. Recently embraced fatherhood, his biggest and most important project to date.
+
+#### Jasvir Nagra
+Jasvir Nagra is widely recognized as a thought leader in software protection. He is co-author of Surreptitious Software, the definitive textbook on software protection, and an early researcher in obfuscation, software watermarking, and fingerprinting. With more than 12 years of experience, his professional path includes companies such as Instart, Dropbox and Google - where he led the Caja project. As an advisor to Jscrambler, he is helping cybersecurity startups address key technological challenges.
+
+
+###OWASP API Top10
+TBD
+
+#### Paulo Silva
