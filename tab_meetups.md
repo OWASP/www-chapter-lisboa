@@ -3,7 +3,7 @@ title: meetups
 displaytext: Chapter Meetups
 layout: null
 tab: true
-order: 2
+order: 1
 tags: lisboa
 ---
 # OWASP Lisboa Chapter Meetup 2022
