@@ -28,6 +28,18 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
+## Next Meeting/Event
+
+### November 9th:
+The first meetup of the OWASP Lisboa Chapter - The Beginning.
+
+### Location:
+[OLX Portugal - Praça Duque de Saldanha nº 1 · Lisboa](https://goo.gl/maps/yeJVScaFdtoZcLoG7)
+
+### Agenda:
+* 18h00: **The Beginning** by the OWASP Lisboa chapter leadership team
+* 18h30: **OWASP API Top10** by Paulo Silva
+* 19h00: **Bots have gone phishing, but all they get is the boot** by Pedro Fortuna and Jasvir Nagra
+* 20h00: **Drinks & Dinner** by OLX
+
+Check the [meetups page](https://owasp.org/www-chapter-lisboa/#div-meetups) for more information
