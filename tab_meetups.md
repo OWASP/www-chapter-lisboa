@@ -17,7 +17,7 @@ The first meetup of the OWASP Lisboa Chapter - The Beginning.
 ### Agenda:
 * 18h00: **The Beginning** by the OWASP Lisboa chapter leadership team
 * 18h30: **[OWASP API Top10](#OWASP API Top10)** by Paulo Silva
-* 19h00: **[Bots have gone phishing, but all they get is the boot](#Bots have gone phishing, but all they get is the boot)** by Pedro Fortuna and Jasvir Nagra
+* 19h00: **[Bots have gone phishing, but all they get is the boot](#bots-have-gone-phishing-but-all-they-get-is-the-boot)** by Pedro Fortuna and Jasvir Nagra
 * 20h00: **Drinks & Dinner** by OLX
 
 ### Bots have gone phishing, but all they get is the boot
@@ -32,7 +32,7 @@ Once on a trajectory to a full academic career, where he taught security and com
 Jasvir Nagra is widely recognized as a thought leader in software protection. He is co-author of Surreptitious Software, the definitive textbook on software protection, and an early researcher in obfuscation, software watermarking, and fingerprinting. With more than 12 years of experience, his professional path includes companies such as Instart, Dropbox and Google - where he led the Caja project. As an advisor to Jscrambler, he is helping cybersecurity startups address key technological challenges.
 
 
-###OWASP API Top10
+### OWASP API Top10
 TBD
 
 #### Paulo Silva
