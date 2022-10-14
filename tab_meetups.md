@@ -16,7 +16,7 @@ The first meetup of the OWASP Lisboa Chapter - The Beginning.
 
 ### Agenda:
 * 18h00: **The Beginning** by the OWASP Lisboa chapter leadership team
-* 18h30: **[OWASP API Top10](#OWASP API Top10)** by Paulo Silva
+* 18h30: **[OWASP API Top10](#owasp-api-top10)** by Paulo Silva
 * 19h00: **[Bots have gone phishing, but all they get is the boot](#bots-have-gone-phishing-but-all-they-get-is-the-boot)** by Pedro Fortuna and Jasvir Nagra
 * 20h00: **Drinks & Dinner** by OLX
 
@@ -36,3 +36,4 @@ Jasvir Nagra is widely recognized as a thought leader in software protection. He
 TBD
 
 #### Paulo Silva
+TBD

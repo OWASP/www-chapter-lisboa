@@ -30,7 +30,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Next Meeting/Event
 
-### November 9th:
+### November 9th 2022:
 The first meetup of the OWASP Lisboa Chapter - The Beginning.
 
 ### Location:
