@@ -33,7 +33,11 @@ Jasvir Nagra is widely recognized as a thought leader in software protection. He
 
 
 ### OWASP API Top10
-TBD
+APIs are a foundational element of innovation in today's app-driven world, exposing business logic and access to sensitive data. Because of this APIs have increasingly become a target for attackers and, unsurprisingly, the common vector between major well-known data breaches.
+
+We'll briefly discuss why we've decided to create yet another top 10 list, how it was built, and what our plans are for the next edition, but the master plan is to take most of the time to exploit a modern web application, deep diving into the top 10 API security risks as we spot them.
 
 #### Paulo Silva
-TBD
+Since his first OWASP local event back in 2010, he has been an active community member contributing to several OWASP projects. Nowadays, he's the OWASP Go Secure Coding Practices project co-leader and OWASP API Security Project main collaborator.
+
+With +15 years of professional experience developing software, at some point in time decided to focus on breaking it, helping several companies and organizations to improve their security posture, either as an ethical hacker, pentester, or security researcher.
