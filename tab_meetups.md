@@ -16,10 +16,12 @@ February 28th 2023 - #2 Building Up
 
 At the lobby, go down the stairs to the left of the elevators.
 
+This meetup is supported by INESC-ID.
+
 ### Agenda:
 * 18h00: **Welcome notes** by the OWASP Lisboa chapter leadership team
-* 18h15: **[Surface Security: The experience so far and the road ahead](surface-security-the-experience-so-far-and-the-road-ahead)** by Gustavo Silva
-* 19h00: **[Is it private, is it public? Dependency Confusion](is-it-private-is-it-public-dependency-confusion)** by Francisco Santos
+* 18h15: **[Surface Security: The experience so far and the road ahead](#surface-security-the-experience-so-far-and-the-road-ahead)** by Gustavo Silva
+* 19h00: **[Is it private, is it public? Dependency Confusion](#is-it-private-is-it-public-dependency-confusion)** by Francisco Santos
 
 ### Surface Security: The experience so far and the road ahead
 "At Paddy Power Betfair (Blip.pt), throughout the years we have developed a tool to help us have an inventory of all internal assets, from servers, to DNS records, to endpoint devices, but to also integrate other tools in it, like open source scanners to help us detect vulnerabilities, understand our exposure, weaknesses and priorities, as well as leverage built-in notifications, a slack bot, and much more.
