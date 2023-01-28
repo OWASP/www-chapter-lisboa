@@ -9,7 +9,7 @@ tags: lisboa
 # OWASP Lisboa Chapter Meetup 2023
 
 ## Next event: 
-February 28th 2023 - #2 Building Up
+February 28th 2023 - #2 Building Up, **sponsored by INESC-ID**
 
 ### Location:
 [INESC-ID, Rua Alves Redol 9, Lisboa](https://goo.gl/maps/aP8v2mUnzwneRH5v7)
