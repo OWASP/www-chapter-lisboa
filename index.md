@@ -33,7 +33,7 @@ Use the following channels to follow us to stay up to date with our events:
 ## Next event:
 
 ### February 28th 2023:
-OWASP Lisboa Meetup - #2 Building Up, **sponsored by INESC-ID**
+OWASP Lisboa Meetup - #2 Building Up, **supported by [INESC-ID](https://www.inesc-id.pt/) and [AP2SI](https://ap2si.org/).**
 
 ### Location:
 [INESC-ID, Rua Alves Redol 9, Lisboa](https://goo.gl/maps/aP8v2mUnzwneRH5v7)
