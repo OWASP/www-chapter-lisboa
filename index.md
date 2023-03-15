@@ -32,18 +32,7 @@ Use the following channels to follow us to stay up to date with our events:
 
 ## Next event:
 
-### February 28th 2023:
-OWASP Lisboa Meetup - #2 Building Up, **supported by [INESC-ID](https://www.inesc-id.pt/) and [AP2SI](https://ap2si.org/).**
-
-### Location:
-[INESC-ID, Rua Alves Redol 9, Lisboa](https://goo.gl/maps/aP8v2mUnzwneRH5v7)
-
-At the lobby, go down the stairs to the left of the elevators.
-
-### Agenda:
-* 18h00: **Welcome notes** by the OWASP Lisboa chapter leadership team
-* 18h15: **Surface Security: The experience so far and the road ahead** by Gustavo Silva
-* 19h00: **Is it private, is it public? Dependency Confusion** by Francisco Santos
+{% include chapter_events.html group=page.meetup-group %}
 
 
 ## Participation
