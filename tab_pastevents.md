@@ -40,7 +40,7 @@ The is it private, is it public? Dependency Confusion talk explains what depende
 
 ### Pictures from the meetup
 
-![](media/meetups/2023.02.28 - Building Up/IMG_0329.jpg)![](media/meetups/2023.02.28 - Building Up/IMG_0331.jpg)![](media/meetups/2022.11.09 - The Beginning /FhryKOLX0AArqOA.jpeg)![](media/meetups/2023.02.28 - Building Up/IMG_0340.jpg)
+![](media/meetups/2023.02.28 - Building Up/IMG_0329.jpg)![](media/meetups/2023.02.28 - Building Up/IMG_0331.jpg)![](media/meetups/2023.02.28 - Building Up/IMG_0340.jpg)
 
 
 ---
