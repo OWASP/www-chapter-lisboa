@@ -41,7 +41,7 @@ This meetup is supported by [Snyk](https://snyk.io/).
 
 ### Agenda:
 * 18h00: **Welcome notes** by the OWASP Lisboa chapter leadership team
-* 18h15: **[Open projects you can use today to improve your AppSec posture](#open-projects-you-can-use-today-to-improve-your-appSec-posture)** by Lucas Ferreira
+* 18h15: **[Open projects you can use today to improve your AppSec posture](#open-projects-you-can-use-today-to-improve-your-appsec-posture)** by Lucas Ferreira
 * 19h00: **[One-Time Quantum-Resistant Fully-Homomorphic Padding Oracle cryptography trends, buzzwords, and snake oil for 2023](#one-time-quantum-resistant-fully-homomorphic-padding-oracle-cryptography-trends-buzzwords-and-snake-oil-for-2023)** by Diogo Sousa
 * 20:00: **Snacks & Drinks** sponsored by Snyk
 
@@ -91,7 +91,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 
 ## Last event:
-November 9th, 2022. Check it [here](https://owasp.org/www-chapter-lisboa/#div-pastevents)
+February 28th, 2023. Check it [here](https://owasp.org/www-chapter-lisboa/#div-pastevents)
 
 
 Check the [meetups page](https://owasp.org/www-chapter-lisboa/#div-meetups) for more information
