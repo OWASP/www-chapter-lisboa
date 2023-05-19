@@ -37,7 +37,7 @@ May 30th 2023 - #3 is a charm
 ### Location:
 [Instituto CRIAP - Lisboa Campo Grande 220B · Lisboa](https://goo.gl/maps/ajVGbJ6bmAMSzHjg7)
 
-This meetup is supported by [Snyk](https://snyk.io/).
+This meetup is supported by [Snyk](https://snyk.io/) and [AP2SI](https://ap2si.org/).
 
 ### Agenda:
 * 18h00: **Welcome notes** by the OWASP Lisboa chapter leadership team
@@ -67,11 +67,6 @@ This talk targets a beginner to an intermediate audience and, starting from a br
 "An opinionated individual with interest in cryptography and its intersection with secure software development."
 
 [LinkedIn](https://www.linkedin.com/in/0xdsousa/)
-
-
-
-
-{% include chapter_events.html group=page.meetup-group %}
 
 
 ## Participation

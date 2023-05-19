@@ -13,6 +13,8 @@ tags: lisboa
 ### Location:
 [INESC-ID, Rua Alves Redol 9, Lisboa](https://goo.gl/maps/aP8v2mUnzwneRH5v7)
 
+This meetup was supported by [INESC-ID](https://www.inesc-id.pt/) and [AP2SI](https://ap2si.org/).
+
 * 18h00: **Welcome notes** by the OWASP Lisboa chapter leadership team
 * 18h15: **[Surface Security: The experience so far and the road ahead](#surface-security-the-experience-so-far-and-the-road-ahead)** by Gustavo Silva
 * 19h00: **[Is it private, is it public? Dependency Confusion](#is-it-private-is-it-public-dependency-confusion)** by Francisco Santos
@@ -50,6 +52,8 @@ The first meetup of the OWASP Lisboa Chapter - The Beginning.
 
 ### Location:
 [OLX Portugal - Praça Duque de Saldanha nº 1 · Lisboa](https://goo.gl/maps/yeJVScaFdtoZcLoG7)
+
+This meetup was supported by [OLX](https://olx.pt/).
 
 ### Agenda:
 * 18h00: **The Beginning** by the OWASP Lisboa chapter leadership team
