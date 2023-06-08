@@ -46,7 +46,7 @@ This talk targets a beginner to an intermediate audience and, starting from a br
 
 ### Pictures from the meetup
 
-![](media/meetups/2023.05.30 - #3 Is a Charm/IMG_8835.JPG)![](media/meetups/2023.05.30 - #3 Is a Charm/IMG_8840.JPG)![](media/meetups/2023.05.30 - #3 Is a Charm/IMG_8843.JPG)
+![](media/meetups/2023.05.30 - \#3 Is a Charm/IMG_8835.JPG)![](media/meetups/2023.05.30 - \#3 Is a Charm/IMG_8840.JPG)![](media/meetups/2023.05.30 - \#3 Is a Charm/IMG_8843.JPG)
 
 ---
 
