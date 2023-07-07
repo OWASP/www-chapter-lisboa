@@ -52,7 +52,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 
 ## Last event:
-February 28th, 2023. Check it [here](https://owasp.org/www-chapter-lisboa/#div-pastevents)
+May 30th, 2023. Check it [here](https://owasp.org/www-chapter-lisboa/#div-pastevents)
 
 
 Check the [meetups page](https://owasp.org/www-chapter-lisboa/#div-meetups) for more information
