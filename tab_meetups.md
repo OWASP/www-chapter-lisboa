@@ -13,14 +13,14 @@ tags: lisboa
 Set 19th 2023 - #04 - The Room
 
 ### Location:
-[Torre Ocidente Rua Galileu Galilei, 2 in the Colombo Shopping Center](https://goo.gl/maps/kBcg5XbShzMqNGhJ9)
+[Torre Ocidente, Rua Galileu Galilei 2, in the Colombo Shopping Center](https://goo.gl/maps/kBcg5XbShzMqNGhJ9)
 
 This meetup is supported by [BNP Paribas](https://www.bnpparibas.pt/).
 
 ### Agenda:
 * 18h00: **Welcome notes** by the OWASP Lisboa chapter leadership team
 * 18h20: **[How to test and compare SAST solutions](#how-to-test-and-compare-SAST-solutions)** by Guillaume Montard
-* 19h00: **[Unmasking Azure Kubernetes Service - Unveiling Inherent Security Risks in K8S Environments](#Unmasking-Azure-Kubernetes-Service-Unveiling-Inherent-Security-Risks-in-K8S-Environments)** by Sadi Zane
+* 19h00: **[Unmasking Azure Kubernetes Service - Unveiling Inherent Security Risks in K8S Environments](#unmasking-azure-kubernetes-service---unveiling-inherent-security-risks-in-k8s-environments)** by Sadi Zane
 * 20:00: **Snacks & Drinks** sponsored by BNP Paribas
 
 ### How to test and compare SAST solutions

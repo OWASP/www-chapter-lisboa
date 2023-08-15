@@ -23,12 +23,8 @@ The objective of this chapter is to promote application security in Portugal, th
 
 ## Follow us and stay up to date
 
-Use the following channels to follow us to stay up to date with our events:
+Use the [Social Links](#social-links) on the right to follow us to stay up to date with our events:
 
-* [Meetup](https://www.meetup.com/owasp-lisboa-chapter/)
-* [Twitter](https://twitter.com/owasplisboa)
-* [Linkedin](https://www.linkedin.com/company/owasp-lisboa/)
-* Email lisboa-chapter at owasp.org
 
 ## Next event:
 
