@@ -11,6 +11,7 @@ tags: lisboa
 ## Next event:
 
 Nov 15th, 2023:
+
 \#05 The Cake
 
 ### Location:

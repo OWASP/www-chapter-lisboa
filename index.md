@@ -28,6 +28,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 ## Next event:
 
 Nov 15th, 2023:
+
 \#05 The Cake
 
 ### Location:
