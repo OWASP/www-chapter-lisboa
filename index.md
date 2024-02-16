@@ -37,8 +37,8 @@ This meetup is supported by [Celfocus](https://www.celfocus.com/) and [AP2SI](ht
 
 ### Agenda:
 * 18h00: **Welcome notes** by the OWASP Lisboa chapter leadership team
-* 18h15: **[LLM Security: The OWASP Top 10 Journey](#ll-security-the-owasp-top-10-journey)** by Jorge Pinto
-* 19h10: **[SBOM, SBOM, you're an SBOM](#sbom-sbom-you-re-an-sbom)** by Diogo Sousa
+* 18h15: **[LLM Security: The OWASP Top 10 Journey](#llm-security-the-owasp-top-10-journey)** by Jorge Pinto
+* 19h10: **[SBOM, SBOM, you're an SBOM](#sbom-sbom-youre-an-sbom)** by Diogo Sousa
 * 20:00: **Drinks & Dinner** sponsored by Celfocus
 
 ### LLM Security: The OWASP Top 10 Journey
