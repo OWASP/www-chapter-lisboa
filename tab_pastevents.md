@@ -8,206 +8,29 @@ tags: lisboa
 ---
 
 
-## Nov 15th, 2023:
-\#05 The Cake
+## Past Events
 
-### Location:
-[OLX Portugal - Praça Duque de Saldanha nº 1 · Lisboa](https://goo.gl/maps/yeJVScaFdtoZcLoG7)
+# 2024
 
-This meetup is supported by [OLX](https://olx.pt/) and [AP2SI](https://ap2si.org/).
+{% assign page_event_2024 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'events/2024'" %}
 
-### Agenda:
-* 18h00: **The Cake** by the OWASP Lisboa chapter leadership team
-* 18h15: **[Seeing What’s Wrong Just Right](#seeing-whats-wrong-just-right)** by Jasvir Nagra
-* 19h10: **[Why everyone in your cyber security team needs to be an AI expert](#why-everyone-in-your-cyber-security-team-needs-to-be-an-ai-expert)** by Dinis Cruz
-* 20:00: **Drinks & Dinner** sponsored by OLX
+{% for page in page_event_2024 %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+  {% endfor %}
 
-### Seeing What’s Wrong Just Right
-"Writing web applications is hard. Debugging them is harder. Security bugs are even harder because not only does an application have to work, it has to stop working when the input is malicious. One approach web developers have taken to managing the complexity of writing large web programs is to make it harder to write incorrect programs. Static type checkers, linters, tests and testing frameworks have all made it easier to write correct code. Nevertheless, incorrect and vulnerable programs still exist. In fact, the very success of these tools in avoiding common errors has meant developers spend increasing amounts of time debugging only subtle bugs. In distributed systems, the challenge is even harder because debugging tools give you glimpses into the program state—some on the server, some on the client—without giving you a coherent view of the entire system. Not only are web programs inherently distributed between the server and the client, any one web page in the browser is itself made up of different iframes, events and event handlers, and sometimes service workers all communicating asynchronously. In this talk, I will share a few painful distributed web app debugging anecdotes and an alternate approach to get a holistic view of a program to track down elusive bugs. This approach uses virtualization to create complete traces of just those aspects of the program we suspect are buggy without having to model all program state. Virtualization allows us to momentarily ignore incidental bugs discovered while hunting the core one without it getting in the way, and visualization of the collected traces to build up causal diagrams to inform our intuition when our mental models deviate from reality. I will demonstrate how to recognize and tackle debugging problems with this approach and cover pitfalls you may run into with virtualization."
 
-#### Jasvir Nagra
-"Jasvir Nagra is widely recognized as a thought leader in software protection. He is co-author of Surreptitious Software, the definitive textbook on software protection, and an early researcher in obfuscation, software watermarking, and fingerprinting. With more than 12 years of experience, his professional path includes companies such as Instart, Dropbox and Google - where he led the Caja project. As an advisor to Jscrambler, he is helping cybersecurity startups address key technological challenges."
+# 2023
 
-[LinkedIn](https://www.linkedin.com/in/jasvirnagra/)
-[Twitter](https://twitter.com/jasvir)
+{% assign page_event_2023 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'events/2023'" %}
 
+{% for page in page_event_2023 %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+  {% endfor %}
 
-### Why everyone in your cyber security team needs to be an AI expert
-"Similar to how electricity revolutionised our lives and is now ubiquitous, Gen AI is poised to become an integral part of everything Cyber Security teams do everyday. Therefore, there is an increasing need to deepen our understanding and expertise in this transformative technology. It's time to embrace the opportunities AI presents and equip ourselves with the knowledge to thrive in this rapidly evolving landscape."
+# 2022
 
-#### Dinis Cruz
-"Dinis Cruz is the Chief Scientist of Glasswall and the CISO of Holland & Barrett, who brings a unique blend of Security and Engineering expertise with 20+ years experience in Cyber Security and Software Development. Dinis is focused on creating Gen AI powered teams and environments where engineering and security are enablers and accelerators for the business, with a big focus on the productisation and commercialisation of advanced technologies."
+{% assign page_event_2022 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'events/2022'" %}
 
-[LinkedIn](https://www.linkedin.com/in/diniscruz/)
-[Twitter](https://twitter.com/DinisCruz)
-
-### Pictures from the meetup
-
-![](media/meetups/2023.11.15 - The cake/IMG20231115184335.jpg)
-![](media/meetups/2023.11.15 - The cake/IMG20231115190230.jpg)
-![](media/meetups/2023.11.15 - The cake/IMG_0977.jpeg)
-![](media/meetups/2023.11.15 - The cake/IMG_6142.jpeg)
-
-
-## Sep 19th, 2023:
-\#04 The Room
-
-### Location:
-[Torre Ocidente, Rua Galileu Galilei 2, in the Colombo Shopping Center](https://goo.gl/maps/kBcg5XbShzMqNGhJ9)
-
-This meetup is supported by [BNP Paribas](https://www.bnpparibas.pt/).
-
-### Agenda:
-* 18h00: **Welcome notes** by the OWASP Lisboa chapter leadership team
-* 18h20: **[How to test and compare SAST solutions](#how-to-test-and-compare-SAST-solutions)** by Guillaume Montard
-* 19h00: **[Unmasking Azure Kubernetes Service - Unveiling Inherent Security Risks in K8S Environments](#unmasking-azure-kubernetes-service---unveiling-inherent-security-risks-in-k8s-environments)** by Sadi Zane
-* 20:00: **Snacks & Drinks** sponsored by BNP Paribas
-
-### How to test and compare SAST solutions
-"Over the past two decades, many of us have had negative experiences with SAST. In this talk, I will explain SAST, its significance, and introduce a framework that allows you to test and compare the latest SAST solutions. By the end, I hope to change your perspective on SAST."
-
-#### Guillaume Montard
-"Guillaume, co-founder of Bearer, developer-first security solution. Previously CTO and VP of Engineering at Skillsoft."
-
-[LinkedIn](https://www.linkedin.com/in/guillaumemontard/)
-[Twitter](https://twitter.com/g_montard)
-
-
-### Unmasking Azure Kubernetes Service - Unveiling Inherent Security Risks in K8S Environments
-"This talk delves into the security risks associated with Azure Kubernetes Service (AKS). Specifically, it focuses on a deep dive into key security controls like Role-Based Access Control (RBAC) and explores associated risks with service accounts. Additionally, the talk presents a novel approach highlighting how an attacker could exploit Node authorization certificate keys to achieve long-term persistence within AKS environments and their underlying containers. Furthermore, the presentation describes and demonstrates an attack against a vulnerable Grafana enterprise application by leveraging directory traversal techniques to steal privileged tokens. These tokens serve as a stepping stone for further pivoting into the container environment. The talk also addresses the inherent shortcomings of default Azure Kubernetes deployments, including vulnerabilities related to secrets management, pod security admission, and underlying networks. By shedding light on these deficiencies, attendees gain a comprehensive understanding of the security challenges and potential avenues for improvement in AKS environments."
-
-#### Sadi Zane
-"Sadi Zane is a Principal Cyber Security Consultant specialising in offensive security, Red Team/Purple Team exercises, and extensive experience in Orchestration technologies e.g., Cloud on premise Kubernetes container security systems."
-
-[LinkedIn](https://www.linkedin.com/in/sadi-zane-bb6430206/)
-
-### Pictures from the meetup
-
-![](media/meetups/2023.09.19 - The room/F64uuM4XEAAEHkV.jpeg)![](media/meetups/2023.09.19 - The room/F64uuM6WgAA9NeB.jpeg)![](media/meetups/2023.09.19 - The room/F64uuM6XoAAf_ZO.jpeg)![](media/meetups/2023.09.19 - The room/F64uuM5W4AA2egc.jpeg)
-
----
-
-## May 30th, 2023:
-\#3 is a charm
-
-### Location:
-[Instituto CRIAP - Lisboa Campo Grande 220B · Lisboa](https://goo.gl/maps/ajVGbJ6bmAMSzHjg7)
-
-This meetup is supported by [Snyk](https://snyk.io/) and [AP2SI](https://ap2si.org/).
-
-### Agenda:
-* 18h00: **Welcome notes** by the OWASP Lisboa chapter leadership team
-* 18h15: **[Open projects you can use today to improve your AppSec posture](#open-projects-you-can-use-today-to-improve-your-appsec-posture)** by Lucas Ferreira
-* 19h00: **[One-Time Quantum-Resistant Fully-Homomorphic Padding Oracle cryptography trends, buzzwords, and snake oil for 2023](#one-time-quantum-resistant-fully-homomorphic-padding-oracle-cryptography-trends-buzzwords-and-snake-oil-for-2023)** by Diogo Sousa
-* 20:00: **Snacks & Drinks** sponsored by Snyk
-
-### Open projects you can use today to improve your AppSec posture
-"In this talk, we go through the most important OWASP projects (both documentation/standards and tools) to show how companies can improve their security posture and mature their AppSec program. It is meant as an overview of the main OWASP projects."
-
-
-#### Lucas Ferreira
-"Lucas is a long-time OWASP member, having worked in OWASP as a project leader and chapter leader on two continents. He was a member of the OWASP Global Conferences committee and lead the organization of 3 OWASP AppSec conferences in Brazil."
-
-[LinkedIn](https://www.linkedin.com/in/ferreira/)
-[Twitter](https://twitter.com/lucassapao)
-
-### One-Time Quantum-Resistant Fully-Homomorphic Padding Oracle cryptography trends, buzzwords, and snake oil for 2023
-"In our modern times, cryptography is all around us, even if we don't notice it. We use it when checking our bank statements, buying pig plushies online, or sending stickers to each other on instant messengers. Given its ubiquity, it is, for the most part, taken for granted by developers: import HTTP/crypto/TLS, throw in a certificate from Let's Encrypt, and don't think much about it while relying on (hopefully) safe defaults.
-
-While sticking with well-vetted libraries should work out of the box for most cases, in certain areas, you need to be a bit more knowledgeable, if only to make good decisions about what libraries to use and how to wrangle all the moving parts into a cohesive and secure system.
-
-Cryptography tends to be full of obscure notation that isn't that dissimilar to magic spells, and "Don't Roll Your Own Crypto" is an often repeated mantra (many times because of the previous statement). Search results for "crypto" have been getting progressively more complicated to navigate, with BTC, XRP, and others taking up all the prime SEO result space.
-This talk targets a beginner to an intermediate audience and, starting from a brief overview of core tenets (Kerckhoffs's principle, Schneier's Law, the economy of mechanism, theoretical vs. practical security), will expand upon the current challenges and trends in modern cryptography, from FHE to PQC (including explaining what those are), and also highlight common design pitfalls (and their consequences) and how to reduce your snake oil intake."
-
-#### Diogo Sousa
-"An opinionated individual with interest in cryptography and its intersection with secure software development."
-
-[LinkedIn](https://www.linkedin.com/in/0xdsousa/)
-
-### Pictures from the meetup
-
-![](media/meetups/2023.05.30 - Is a Charm/IMG_8835.JPG)![](media/meetups/2023.05.30 - Is a Charm/IMG_8840.JPG)![](media/meetups/2023.05.30 - Is a Charm/IMG_8843.JPG)
-
----
-
-## February 28th, 2023:
-\#2 Building Up
-
-### Location:
-[INESC-ID, Rua Alves Redol 9, Lisboa](https://goo.gl/maps/aP8v2mUnzwneRH5v7)
-
-This meetup was supported by [INESC-ID](https://www.inesc-id.pt/) and [AP2SI](https://ap2si.org/).
-
-### Agenda:
-* 18h00: **Welcome notes** by the OWASP Lisboa chapter leadership team
-* 18h15: **[Surface Security: The experience so far and the road ahead](#surface-security-the-experience-so-far-and-the-road-ahead)** by Gustavo Silva
-* 19h00: **[Is it private, is it public? Dependency Confusion](#is-it-private-is-it-public-dependency-confusion)** by Francisco Santos
-
-### Surface Security: The experience so far and the road ahead
-"At Paddy Power Betfair (Blip.pt), throughout the years we have developed a tool to help us have an inventory of all internal assets, from servers, to DNS records, to endpoint devices, but to also integrate other tools in it, like open source scanners to help us detect vulnerabilities, understand our exposure, weaknesses and priorities, as well as leverage built-in notifications, a slack bot, and much more.
-
-This talk is to talk about this project, which was open sourced recently, and what is the roadmap for the future. "
-
-#### Gustavo Silva
-"Software Developer by day, Security Researcher at night, I’m passionate for software security. The niche I am currently working on is engineering processes, tools, and internal interfaces to help companies secure their development lifecycles, do vulnerability management and increase overall awareness over the product's security risks."
-
-[LinkedIn](https://www.linkedin.com/in/gsilvapt/)
-
-### Is it private, is it public? Dependency Confusion
-"By 2021, the number of components in the average application rose 77 % from 298 to more than 500 open-source packages, those components are hosted on public repositories such as GitHub, NPM or PyPI, while some organizations choose to operate proprietary packages inside private registries of those repositories. Private or public, the management is done by CLI’s (like npm) and the CLI imports private or public packages via a simple precedence algorithm: If the package resides inside the private registry, import it. If not, import the public component. How can a bad actor play this to his advantage?
-
-The is it private, is it public? Dependency Confusion talk explains what dependency confusion is, teaches ways of finding dependency confusion vulnerabilities in js files via BurpSuite with an automated tool called jsminer, a real example of a dependency confusion bug I found, and recommendations to mitigate those issues. By the end, breakers and makers should acquire a fresh new perspective on this issue."
-
-#### Francisco Santos
-"I'm Francisco Santos, 23 years old. I always liked to think out of the box and find weird solutions to problems. I like logic and solving puzzles. I enjoy being a breaker and I want to add value to that community.
-
-[LinkedIn](https://www.linkedin.com/in/francisco-santos-77917a210/)
-[Twitter](https://twitter.com/andr0idp4r4n0id)
-
-### Pictures from the meetup
-
-![](media/meetups/2023.02.28 - Building Up/IMG_0329.jpg)![](media/meetups/2023.02.28 - Building Up/IMG_0331.jpg)![](media/meetups/2023.02.28 - Building Up/IMG_0340.jpg)
-
-
----
-
-## November 9th, 2022:
-The first meetup of the OWASP Lisboa Chapter - The Beginning.
-
-### Location:
-[OLX Portugal - Praça Duque de Saldanha nº 1 · Lisboa](https://goo.gl/maps/yeJVScaFdtoZcLoG7)
-
-This meetup was supported by [OLX](https://olx.pt/).
-
-### Agenda:
-* 18h00: **The Beginning** by the OWASP Lisboa chapter leadership team
-* 18h30: **[OWASP API Top10](#owasp-api-top10)** by Paulo Silva
-* 19h00: **[Bots have gone phishing, but all they get is the boot](#bots-have-gone-phishing-but-all-they-get-is-the-boot)** by Pedro Fortuna and Jasvir Nagra
-* 20h00: **Drinks & Dinner** by OLX
-
-### Bots have gone phishing, but all they get is the boot
-Web applications and the APIs which drive them are built with humans in mind. Exposing APIs enable interesting mashups of applications. But they also allow bots to automate access to these web applications, brute-forcing passwords, grabbing credit card numbers and gift cards; artificially inflating the price of goods and tickets; deny legitimate users service; and scraping content. Traditional approaches have focused on trying to detect legitimate browsers, known bot frameworks and user behavior but the easy availability of scriptable headless browsers are making this approach have diminishing returns. Bots are also commonly used in the context of phishing web apps. These apps are copies of the website, usually hosted in similar host names, where the user is tricked by means of phishing attacks. There, the user is convinced to enter their credentials, just like they would in the legitimate website. 2FA does not help in this context, as the user will likely volunteer this information, believing that the request comes from the legitimate website. Once in possession of the user credentials and 2FA, bots are used to automate the login into the account and steal sensitive data or commit fraud.
-
-In this talk, we will give a brief overview of the broad goals bot-writers have when targeting your site, examples of how these have affected businesses, how traditional approaches to defending against them work and where they fail when faced with modern scripted browsers. We will then focus on phishing bots, and how to defend against them. We demonstrate a series of techniques using a combination of obfuscation and a one time token to increase the cost in time and money to a bot-writer rather than attempting to detect or block it. We will cover the challenges in creating such a solution, how to anticipate how bot-writers attempt to evade detection and how to proactively evolve the solution. A live demo will be included.
-
-#### Pedro Fortuna
-Once on a trajectory to a full academic career, where he taught security and computer science courses for about 5 years - ended up falling in love with the fast-paced world of entrepreneurship. He Started Jscrambler where he leads all security research and drives the company's product innovation on application security. Has more than 15 years of experience researching and working on web security. OWASP contributor. A regular speaker at several international security conferences. Main research interests lie in the fields of Application Security, Web Security, Reverse Engineering, Malware, and Software Engineering. Builder of solutions that require code rewriting, sandboxing, or both. Author of several patents in application security. Recently embraced fatherhood, his biggest and most important project to date.
-
-#### Jasvir Nagra
-Jasvir Nagra is widely recognized as a thought leader in software protection. He is co-author of Surreptitious Software, the definitive textbook on software protection, and an early researcher in obfuscation, software watermarking, and fingerprinting. With more than 12 years of experience, his professional path includes companies such as Instart, Dropbox and Google - where he led the Caja project. As an advisor to Jscrambler, he is helping cybersecurity startups address key technological challenges.
-
-
-### OWASP API Top10
-APIs are a foundational element of innovation in today's app-driven world, exposing business logic and access to sensitive data. Because of this APIs have increasingly become a target for attackers and, unsurprisingly, the common vector between major well-known data breaches.
-
-We'll briefly discuss why we've decided to create yet another top 10 list, how it was built, and what our plans are for the next edition, but the master plan is to take most of the time to exploit a modern web application, deep diving into the top 10 API security risks as we spot them.
-
-#### Paulo Silva
-Since his first OWASP local event back in 2010, he has been an active community member contributing to several OWASP projects. Nowadays, he's the OWASP Go Secure Coding Practices project co-leader and OWASP API Security Project main collaborator.
-
-With +15 years of professional experience developing software, at some point in time decided to focus on breaking it, helping several companies and organizations to improve their security posture, either as an ethical hacker, pentester, or security researcher.
-
-
-### Pictures from the meetup
-
-![](media/meetups/2022.11.09 - The Beginning /FhryKOKWIAEFqve.jpeg)![](media/meetups/2022.11.09 - The Beginning /FhryKOKXkAERJ9J.jpeg)![](media/meetups/2022.11.09 - The Beginning /FhryKOLX0AArqOA.jpeg)![](media/meetups/2022.11.09 - The Beginning /FhryKOLXwAAfO6G.jpeg)
+{% for page in page_event_2022 %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+  {% endfor %}
