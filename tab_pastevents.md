@@ -10,6 +10,14 @@ tags: lisboa
 
 ## Past Events
 
+# 2025
+
+{% assign page_event_2025 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'events/2025'" %}
+
+{% for page in page_event_2025 %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+  {% endfor %}
+
 # 2024
 
 {% assign page_event_2024 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'events/2024'" %}
@@ -17,7 +25,6 @@ tags: lisboa
 {% for page in page_event_2024 %}
 * [{{ page.title }}]({{site.baseurl }}{{ page.url }})
   {% endfor %}
-
 
 # 2023
 
