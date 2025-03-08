@@ -10,7 +10,8 @@ tags: lisboa
 
 ## Next event:
 
-Soon to be announced.
+🗓️ Apr 2nd, 2025
 
-### Date:
-Apr 2nd, 2025
+📌[OWASP Lisboa #09 The Truth](https://www.meetup.com/owasp-lisboa-chapter/events/306589128/)
+
+Full details and RSVP in the [Meetup group](https://www.meetup.com/owasp-lisboa-chapter/).

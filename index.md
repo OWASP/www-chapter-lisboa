@@ -15,29 +15,32 @@ postal-code: 1649
 ![Lisboa Chapter Logo, image By Deensel - Lisbon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=94222909](assets/images/owasp-lisboa-banner-small.png)
 
 ## Welcome to the OWASP Lisboa chapter
-Welcome to the new OWASP Lisboa chapter. This new portuguese local chapter, builds on the previous experience of the previous existing portuguese OWASP chapter, that was active between 2008 and 2018. 
 
-The objective of this chapter is to promote application security in Portugal, through the engagement of the local community, meetings and events organization, and project participation.
+Welcome to the new OWASP Lisboa chapter. This local chapter builds on the experience of the previous OWASP chapter which was active between 2008 and 2018 (see [History](https://owasp.org/www-chapter-lisboa/#div-history)).  
 
-[Join us](https://owasp.org/membership)!
+The goal of this chapter is to promote application security in Portugal, engaging the local community through meetings, speaking events, and project contributions.
+
+[Join OWASP](https://owasp.org/membership)!
 
 ## Follow us and stay up to date
 
-Use the [Social Links](#social-links) on the right to follow us to stay up to date with our events:
+Use the [Social Links](#social-links) on the right to follow us and stay up to date with our events.
 
 ## Next event:
-Soon to be announced.
 
-### Date:
-Apr 2nd, 2025
+🗓️ Apr 2nd, 2025
 
+📌 [OWASP Lisboa #09 The Truth](https://www.meetup.com/owasp-lisboa-chapter/events/306589128/)
 
 ## Participation
 
-### Call for Talks
+### Call for Speakers
 
-Are you interested in speaking at our meetups? 
-Beginner or advanced, attack or defense, technical or not, submit your talk [here](https://lnkd.in/ecCrhWUx).
+Are you interested in speaking at our meetups?
+
+Stage fright? Tongue-tied? Look at our events as a way to sharpen your skills in a low-stakes, friendly environment. We are here to support all talks, big and small, as long as they line up with the OWASP mission statement. 
+
+🗣️ Submit your talk [here](https://forms.gle/mRSwbcAyfe85zvBx8).
 
 ### Sponsorship
 
@@ -47,9 +50,8 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
+## Previous event:
 
-## Last event:
+Jan 15th 2025, see the [Past Events](https://owasp.org/www-chapter-lisboa/#div-pastevents) tab.
 
-Jan 15th 2025. Check it in the Past Events tab.
-
-Check the [meetups page](https://owasp.org/www-chapter-lisboa/#div-meetups) for more information
+Check the [meetups](https://owasp.org/www-chapter-lisboa/#div-meetups) for more information on future events.
