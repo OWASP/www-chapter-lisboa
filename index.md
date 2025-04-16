@@ -28,9 +28,7 @@ Use the [Social Links](#social-links) on the right to follow us and stay up to d
 
 ## Next event:
 
-🗓️ Apr 2nd, 2025
-
-📌 [OWASP Lisboa #09 The Truth](https://www.meetup.com/owasp-lisboa-chapter/events/306589128/)
+🗓️ TBD
 
 ## Participation
 
