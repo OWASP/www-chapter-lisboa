@@ -7,9 +7,6 @@ order: 2
 tags: lisboa
 ---
 
-
-## Past Events
-
 # 2025
 
 {% assign page_event_2025 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'events/2025'" | reverse %}
