@@ -16,7 +16,7 @@ postal-code: 1649
 
 ## Welcome to the OWASP Lisboa chapter
 
-Welcome to the new OWASP Lisboa chapter. This local chapter builds on the experience of the previous OWASP chapter which was active between 2008 and 2018 (see [History](https://owasp.org/www-chapter-lisboa/#div-history)).  
+Welcome to the new OWASP Lisboa chapter. This local chapter builds on the experience of the previous OWASP chapter which was active between 2008 and 2018 (see [History](https://owasp.org/www-chapter-lisboa/#div-history)).
 
 The goal of this chapter is to promote application security in Portugal, engaging the local community through meetings, speaking events, and project contributions.
 
@@ -28,11 +28,11 @@ Use the [Social Links](#social-links) on the right to follow us and stay up to d
 
 ## Previous:
 
-🗓️ Jan 15th 2025, see the [Past Events](https://owasp.org/www-chapter-lisboa/#div-pastevents) tab.
+🗓️ Sep 10th 2025, see the [Past Events](https://owasp.org/www-chapter-lisboa/#div-pastevents) tab.
 
 ## Next:
 
-🗓️ TBD, join our [Meetup group](https://www.meetup.com/owasp-lisboa-chapter/) for up-to-date announcements.
+🗓️ TBD November 2025, join our [Meetup group](https://www.meetup.com/owasp-lisboa-chapter/) for up-to-date announcements.
 
 ## Participation
 
@@ -40,7 +40,7 @@ Use the [Social Links](#social-links) on the right to follow us and stay up to d
 
 Are you interested in speaking at our meetups?
 
-Stage fright? Tongue-tied? Look at our events as a way to sharpen your skills in a low-stakes, friendly environment. We are here to support all talks, big and small, as long as they line up with the OWASP mission statement. 
+Stage fright? Tongue-tied? Look at our events as a way to sharpen your skills in a low-stakes, friendly environment. We are here to support all talks, big and small, as long as they line up with the OWASP mission statement.
 
 🗣️ Submit your talk [here](https://forms.gle/mRSwbcAyfe85zvBx8).
 
