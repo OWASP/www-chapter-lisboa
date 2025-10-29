@@ -1,0 +1,40 @@
+community:
+  - name: chapter-lisboa
+    platform: slack
+    url: https://owasp.slack.com/archives/C06QKEX20FJ
+leaders:
+  - name: Carlos Serrao
+    email: carlos.serrao@owasp.org
+    github: pontocom
+  - name: Diogo Sousa
+    email: diogo.sousa@owasp.org
+    github: 0xDSousa
+  - name: Nuno Loureiro
+    email: nuno.loureiro@owasp.org
+    github: nunoloureiro
+  - name: Tiago Mendo
+    email: tiago.mendo@owasp.org
+    github: tmendo
+location:
+  country: Portugal
+  country_code: PT
+  region: Lisboa
+  city: Lisboa
+  postal_code: '1649'
+  latitude: -3.7817467
+  longitude: -38.6067323
+meetup_group: owasp-lisboa-chapter
+name: OWASP Lisboa
+repositories:
+  - name: www-chapter-lisboa
+    url: https://github.com/OWASP/www-chapter-lisboa
+    description: OWASP Foundation Web Repository
+tags:
+  - chapter-lisboa
+  - owasp-lisboa
+  - owasp-lisbon
+  - chapter-portugal
+  - lisboa
+  - lisbon
+  - portugal
+website: https://owasp.org/www-chapter-lisboa
