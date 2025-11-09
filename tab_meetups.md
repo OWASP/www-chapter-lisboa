@@ -14,6 +14,6 @@ See the [Past Events](https://owasp.org/www-chapter-lisboa/#div-pastevents) tab.
 
 ## Next:
 
-🗓️ November 2025
+🗓️ November 12th 2025 - Triple Heist
 
 Full details will be in the [Meetup group](https://www.meetup.com/owasp-lisboa-chapter/).

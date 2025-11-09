@@ -32,7 +32,7 @@ Use the [Social Links](#social-links) on the right to follow us and stay up to d
 
 ## Next:
 
-🗓️ TBD November 2025, join our [Meetup group](https://www.meetup.com/owasp-lisboa-chapter/) for up-to-date announcements.
+🗓️ November 12th 2025 (Triple Heist), join our [Meetup group](https://www.meetup.com/owasp-lisboa-chapter/) for up-to-date announcements.
 
 ## Participation
 
