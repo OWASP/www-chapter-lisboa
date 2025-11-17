@@ -7,5 +7,3 @@ Supporting OWASP mission from Portugal since 2008.
 * [X](https://x.com/owasplisboa)
 * [Linkedin](https://www.linkedin.com/company/owasp-lisboa/)
 * Email: lisboa-chapter at owasp.org
-
-

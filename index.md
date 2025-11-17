@@ -28,11 +28,11 @@ Use the [Social Links](#social-links) on the right to follow us and stay up to d
 
 ## Previous:
 
-🗓️ Sep 10th 2025, see the [Past Events](https://owasp.org/www-chapter-lisboa/#div-pastevents) tab.
+🗓️ November 12th 2025, see the [Past Events](https://owasp.org/www-chapter-lisboa/#div-pastevents) tab.
 
 ## Next:
 
-🗓️ November 12th 2025 (Triple Heist), join our [Meetup group](https://www.meetup.com/owasp-lisboa-chapter/) for up-to-date announcements.
+🗓️ TBD 2026, join our [Meetup group](https://www.meetup.com/owasp-lisboa-chapter/) for up-to-date announcements.
 
 ## Participation
 
