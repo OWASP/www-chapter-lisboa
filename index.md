@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Lisboa
-tags: chapter-lisboa owasp-lisboa owasp-lisbon chapter-portugal lisboa lisbon portugal 
+tags: chapter-lisboa owasp-lisboa owasp-lisbon chapter-portugal lisboa lisbon portugal
 level: 0
 region: Europe
 meetup-group: owasp-lisboa-chapter
