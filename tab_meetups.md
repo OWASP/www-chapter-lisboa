@@ -6,7 +6,7 @@ tab: true
 order: 1
 tags: lisboa
 ---
-# OWASP Lisboa Chapter Meetup 2025
+# OWASP Lisboa Chapter Meetups
 
 ## Previous:
 
@@ -14,6 +14,6 @@ See the [Past Events](https://owasp.org/www-chapter-lisboa/#div-pastevents) tab.
 
 ## Next:
 
-🗓️ November 12th 2025 - Triple Heist
+🗓️ Q1 2026
 
 Full details will be in the [Meetup group](https://www.meetup.com/owasp-lisboa-chapter/).
