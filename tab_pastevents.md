@@ -7,6 +7,14 @@ order: 2
 tags: lisboa
 ---
 
+# 2026
+
+{% assign page_event_2026 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'events/2026'" | reverse %}
+
+{% for page in page_event_2026 %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+  {% endfor %}
+
 # 2025
 
 {% assign page_event_2025 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'events/2025'" | reverse %}
