@@ -32,9 +32,11 @@ Use the [Social Links](#social-links) on the right to follow us and stay up to d
 
 ## Next:
 
-🗓️ ~~February 5th 2026~~
+🗓️ March 12th, 2026
 
-Event postponed due to weather conditions, follow our [LinkedIn page](https://www.linkedin.com/company/owasp-lisboa/)/[Meetup group](https://www.meetup.com/owasp-lisboa-chapter/) for up-to-date announcements.
+The password is "banana" (all lowercase) 🍌
+
+Follow our [LinkedIn page](https://www.linkedin.com/company/owasp-lisboa/)/[Meetup group](https://www.meetup.com/owasp-lisboa-chapter/) for up-to-date announcements.
 
 ## Participation
 
