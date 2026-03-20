@@ -28,13 +28,11 @@ Use the [Social Links](#social-links) on the right to follow us and stay up to d
 
 ## Previous:
 
-🗓️ November 12th 2025, see the [Past Events](https://owasp.org/www-chapter-lisboa/#div-pastevents) tab.
+🗓️ March 12th, 2026, see the [Past Events](https://owasp.org/www-chapter-lisboa/#div-pastevents) tab.
 
 ## Next:
 
-🗓️ March 12th, 2026
-
-The password is "banana" (all lowercase) 🍌
+🗓️ TBD
 
 Follow our [LinkedIn page](https://www.linkedin.com/company/owasp-lisboa/)/[Meetup group](https://www.meetup.com/owasp-lisboa-chapter/) for up-to-date announcements.
 
