@@ -1,5 +1,5 @@
 ---
-title: History
+title: history
 displaytext: History
 layout:  null
 tab: true
