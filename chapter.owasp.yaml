@@ -21,8 +21,8 @@ location:
   region: Lisboa
   city: Lisboa
   postal_code: '1649'
-  latitude: -3.7817467
-  longitude: -38.6067323
+  latitude: 38.7222524
+  longitude: -9.1393366
 meetup_group: owasp-lisboa-chapter
 name: OWASP Lisboa
 repositories:
