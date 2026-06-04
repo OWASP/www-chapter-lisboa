@@ -14,8 +14,6 @@ See the [Past Events](https://owasp.org/www-chapter-lisboa/#div-pastevents) tab.
 
 ## Next:
 
-🗓️ June 2nd, Baker's Dozen
+🗓️ TBD
 
-The password is "croissant" 🥐
-
-Full details will be in the [Meetup group](https://www.meetup.com/owasp-lisboa-chapter/).
+Follow our [LinkedIn page](https://www.linkedin.com/company/owasp-lisboa/)/[Meetup group](https://www.meetup.com/owasp-lisboa-chapter/) for up-to-date announcements.

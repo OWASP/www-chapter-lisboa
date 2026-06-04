@@ -28,13 +28,11 @@ Use the [Social Links](#social-links) on the right to follow us and stay up to d
 
 ## Previous:
 
-🗓️ March 12th, 2026, see the [Past Events](https://owasp.org/www-chapter-lisboa/#div-pastevents) tab.
+🗓️ June 2nd, 2026, see the [Past Events](https://owasp.org/www-chapter-lisboa/#div-pastevents) tab.
 
 ## Next:
 
-🗓️ June 2nd, Baker's Dozen
-
-The password is "croissant" 🥐
+🗓️ TBD
 
 Follow our [LinkedIn page](https://www.linkedin.com/company/owasp-lisboa/)/[Meetup group](https://www.meetup.com/owasp-lisboa-chapter/) for up-to-date announcements.
 
