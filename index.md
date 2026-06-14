@@ -36,6 +36,8 @@ Use the [Social Links](#social-links) on the right to follow us and stay up to d
 
 Follow our [LinkedIn page](https://www.linkedin.com/company/owasp-lisboa/)/[Meetup group](https://www.meetup.com/owasp-lisboa-chapter/) for up-to-date announcements.
 
+We are looking for venues 🥺👇🏻📍
+
 ## Participation
 
 ### Call for Speakers
@@ -44,7 +46,13 @@ Are you interested in speaking at our meetups?
 
 Stage fright? Tongue-tied? Look at our events as a way to sharpen your skills in a low-stakes, friendly environment. We are here to support all talks, big and small, as long as they line up with the OWASP mission statement.
 
-🗣️ Submit your talk [here](https://forms.gle/mRSwbcAyfe85zvBx8).
+🗣️ Submit your talk [here](https://forms.gle/KEeZZMASVQmPMxMN7).
+
+### Call for Venues
+
+Interesting in **hosting** one of our meetups?
+
+Reach out to us via LinkedIn DM, email us at lisboa-chapter [at] owasp.org, or send a highly trained carrier pigeon if you prefer! 📬
 
 ### Sponsorship
 
