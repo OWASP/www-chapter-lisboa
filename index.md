@@ -34,6 +34,8 @@ Use the [Social Links](#social-links) on the right to follow us and stay up to d
 
 🗓️ September 10th 2026, graciously hosted by Cloudflare
 
+The password is "treasure" 💎
+
 Follow our [LinkedIn page](https://www.linkedin.com/company/owasp-lisboa/)/[Meetup group](https://www.meetup.com/owasp-lisboa-chapter/) for up-to-date announcements.
 
 We are looking for venues 🥺👇🏻📍
